@@ -1,0 +1,5 @@
+*.pyc
+checkpoints
+mocap_data
+log
+.DS_Store
